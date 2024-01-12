@@ -1,0 +1,83 @@
+{
+              JAVASCRIPT VARIABLES
+
+var = global scope
+let = local scope
+const = constant(eethaa ninaachalum matha mudiiyathuu)ex:weekdays = 7 }
+
+{
+               JAVASCRIPT COMMENTS
+     singleline COMMENTS
+    //comment
+
+    MULTI LINE COMMENTS
+    /*
+    hrhiiuiuiuiuc
+    */
+}
+
+{
+        OPERATORS
+
+        a++
+        ++a
+}
+ 
+ {
+        DATATYPE
+
+        .primitive DATATYPE
+             number
+             boolen
+             string
+             null
+             undefined
+
+        .non primitive DATATYPE
+             object
+             array
+ }
+
+{
+       JS PARAMETERS
+
+       .function price(l, g) {
+    var litre = 50
+    var galien = 100
+    console.log("petrol price:" + l / g)
+       }
+price(50, 100)
+
+}
+
+{
+     JS FUNCTION return type
+
+     . function add(a, b) {
+    return (a + b)
+}
+
+var total = add(10, 20)
+
+console.log("the true value is:" + total)
+
+}
+
+    JS IF CONDITION
+
+    var birthday = false
+
+if (birthday) {
+    console.log("happy birthday")
+
+}
+else {
+    console.log("pls now you can go")
+}
+
+     JS 
+   logical and &&
+   logical or ||
+   logical not !
+
+   
